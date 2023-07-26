@@ -53,7 +53,7 @@ export default {
     };
   },
   project: {
-    link: "https://github.com/oeyoews/next-docs",
+    link: "https://github.com/oeyoews/nextra-blog-starter",
   },
   chat: {
     link: "https://twitter.com/oeyoews",

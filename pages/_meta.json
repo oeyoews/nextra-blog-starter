@@ -1,37 +1,17 @@
 {
   "*": {
-    "type": "page"
-  },
-  "index": {
-    "title": "Homepage",
-    "display": "hidden",
+    "type": "page",
     "theme": {
-      "breadcrumb": true,
       "footer": false,
-      "sidebar": false,
+      "breadcrumb": true,
+      "sidebar": true,
       "typesetting": "default",
       "toc": true,
       "pagination": true
     }
   },
-  "docs": {
-    "theme": {
-      "footer": false
-    },
-    "title": "文档"
-  },
-  "blog": {
-    "title": "博客"
-  },
-  "More": {
-    "title": "更多",
-    "type": "menu",
-    "items": {
-      "github": {
-        "title": "More",
-        "href": "https://github.com",
-        "newWindow": true
-      }
-    }
-  }
+  "index": "主页",
+  "docs": "文档",
+  "blog": "博客",
+  "projects": "项目"
 }

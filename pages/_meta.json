@@ -11,7 +11,7 @@
     }
   },
   "index": "主页",
-  "docs": "文档",
   "blog": "博客",
-  "projects": "项目"
+  "projects": "项目",
+  "docs": "文档"
 }

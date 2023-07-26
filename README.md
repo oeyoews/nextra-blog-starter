@@ -1,6 +1,5 @@
 ## Preview
 
-https://nextra-docs-oeyoews.vercel.app
+https://nextra-blog-starter.vercel.app/
 
 * use components on mdx
-*
